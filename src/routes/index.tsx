@@ -1,8 +1,8 @@
 import { createFileRoute } from "@tanstack/react-router";
 
-import storefront from "@/assets/storefront.png.asset.json";
-import showroomFloor from "@/assets/showroom-floor.webp.asset.json";
-import wholesaleAisle from "@/assets/wholesale-aisle.webp.asset.json";
+import storefront from "@/assets/storefront.jpg";
+import showroomFloor from "@/assets/showroom-floor.jpg";
+import wholesaleAisle from "@/assets/wholesale-aisle.jpg";
 import catFaucet from "@/assets/cat-faucet.jpg";
 import catMirror from "@/assets/cat-mirror.jpg";
 import catHardware from "@/assets/cat-hardware.jpg";
