@@ -108,7 +108,7 @@ function Index() {
 
       <section className="relative px-6 pt-4 pb-16">
         <div className="mx-auto max-w-7xl">
-          <div className="grid items-start gap-12 lg:grid-cols-12">
+          <div className="grid items-center gap-12 lg:grid-cols-12">
             <div className="animate-fade-up lg:col-span-7">
               <h1 className="mb-6 text-balance text-6xl font-extrabold leading-[0.85] tracking-tighter md:text-8xl">
                 PREMIUM <br />
@@ -127,7 +127,7 @@ function Index() {
                 alt="Singhal Sanitary showroom floor with ceramic commodes and LED mirrors"
                 width={1920}
                 height={1440}
-                className="aspect-[4/5] w-full rounded-sm object-cover grayscale transition-all duration-700 hover:grayscale-0"
+                className="aspect-[4/3] w-full rounded-sm object-cover grayscale transition-all duration-700 hover:grayscale-0"
               />
             </div>
           </div>
