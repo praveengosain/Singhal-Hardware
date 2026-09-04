@@ -272,7 +272,7 @@ function Index() {
                     href="tel:+919990155909"
                     className="text-xl font-bold tracking-tight text-primary"
                   >
-                    099901 55909
+                     99901 55909
                   </a>
                 </div>
                 <div>
@@ -283,7 +283,7 @@ function Index() {
                     href="tel:+919821393283"
                     className="text-xl font-bold tracking-tight text-primary"
                   >
-                    098213 93283
+                     9821393283
                   </a>
                 </div>
               </div>
