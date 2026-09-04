@@ -27,8 +27,8 @@ export const Route = createFileRoute("/")({
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { property: "og:image", content: `https://singhalsanitary.in${storefront.url}` },
-      { name: "twitter:image", content: `https://singhalsanitary.in${storefront.url}` },
+      { property: "og:image", content: `https://singhalsanitary.in${storefront}` },
+      { name: "twitter:image", content: `https://singhalsanitary.in${storefront}` },
     ],
     scripts: [
       {
@@ -123,7 +123,7 @@ function Index() {
             </div>
             <div className="animate-fade-up [animation-delay:200ms] lg:col-span-5">
               <img
-                src={showroomFloor.url}
+                src={showroomFloor}
                 alt="Singhal Sanitary showroom floor with ceramic commodes and LED mirrors"
                 width={1920}
                 height={1440}
@@ -228,7 +228,7 @@ function Index() {
             </a>
           </div>
           <img
-            src={wholesaleAisle.url}
+            src={wholesaleAisle}
             alt="Wholesale aisle of wash basins inside the Singhal Sanitary showroom"
             loading="lazy"
             width={1440}
@@ -291,7 +291,7 @@ function Index() {
           </div>
           <div className="border border-border bg-secondary p-4">
             <img
-              src={storefront.url}
+              src={storefront}
               alt="Singhal Sanitary & Hardware storefront near Railway Gate, Lakkarpur"
               loading="lazy"
               width={1920}
