@@ -106,11 +106,11 @@ function Index() {
         </div>
       </nav>
 
-      <section className="relative px-6 pt-12 pb-24">
+      <section className="relative px-6 pt-4 pb-16">
         <div className="mx-auto max-w-7xl">
-          <div className="grid items-end gap-12 lg:grid-cols-12">
+          <div className="grid items-start gap-12 lg:grid-cols-12">
             <div className="animate-fade-up lg:col-span-7">
-              <h1 className="mb-8 text-balance text-6xl font-extrabold leading-[0.85] tracking-tighter md:text-8xl">
+              <h1 className="mb-6 text-balance text-6xl font-extrabold leading-[0.85] tracking-tighter md:text-8xl">
                 PREMIUM <br />
                 <span className="text-primary">FITTINGS &</span>
                 <br />
